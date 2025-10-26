@@ -1,1 +1,2 @@
 # MyFirstRepo
+Hi all, this is m.siva nandini. i'm currently pursuing my B.Tech in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning at Jain (Deemed-to-be University).I'm learning Git and GitHub. This is my first repository to practice commits and pushes.
